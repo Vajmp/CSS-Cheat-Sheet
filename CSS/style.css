@@ -1,0 +1,23 @@
+body{
+	background-color:lightskyblue;
+
+	font-family: Arial, Algerian, Helvetica, serif;
+	font-size: 20px;
+	font-weight: bolder;
+	line-height: 1.6cm;
+	
+	} 
+
+	.container {
+		width:80% ;
+		margin: auto;
+
+}
+.box-1{
+	background-color: #333;
+	color: #fff;
+	border-right: 5px red solid;
+	border-left: 5px blue solid;
+	border-bottom: 5px green solid;
+	border-top: 5px orange solid;
+}
